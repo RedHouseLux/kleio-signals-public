@@ -16,7 +16,7 @@ Il focus attuale del prodotto riguarda esperienza utente, pianificazione quotidi
 
 - Aiuta le persone a organizzare azioni, appuntamenti, promemoria, obiettivi e piccoli passi successivi.
 - Favorisce brevi check-in su umore, energia, stress, chiarezza e continuità nelle azioni.
-- Supporta journaling riflessivo e auto-osservazione tramite testo (voce in sviluppo)
+- Supporta journaling riflessivo e auto-osservazione tramite testo, con supporto vocale in sviluppo.
 - Trasforma pattern quotidiani ricorrenti in insight leggibili per la persona che usa l'app.
 - Offre ai professionisti una visione più chiara e contestuale quando il supporto fa parte del percorso.
 - Mantiene l'esperienza focalizzata su prevenzione, riflessione e risposta umana anticipata.

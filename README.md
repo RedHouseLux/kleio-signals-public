@@ -16,7 +16,7 @@ The current product focus is user experience, daily planning, personal signals, 
 
 - Helps people organize actions, appointments, reminders, goals, and small next steps.
 - Encourages short check-ins around mood, energy, stress, clarity, and follow-through.
-- Supports reflective journaling and voice-based self-observation.
+- Supports reflective journaling and text-based self-observation, with voice support in development.
 - Turns repeated daily patterns into readable insights for the person using the app.
 - Gives professionals a clearer, more contextual view when support is part of the journey.
 - Keeps the experience focused on prevention, reflection, and earlier human response.
