@@ -6,6 +6,12 @@ Kleio Signals is a human-centered digital wellbeing project that helps people pl
 
 The project brings together a personal smart agenda, lightweight check-ins, reflective journaling, and professional support views. Its goal is simple: make daily emotional and behavioral signals easier to understand, without turning care into a cold data dashboard.
 
+## Project State
+
+**Active private prototype.** Kleio Signals currently includes mobile, web, and professional-facing components under active development. This public repository is a high-level showcase only: it does not contain the working source code, internal architecture, sensitive documentation, or business strategy.
+
+The current product focus is user experience, daily planning, personal signals, reflection flows, and responsible support workflows.
+
 ## What It Does
 
 - Helps people organize actions, appointments, reminders, goals, and small next steps.
@@ -29,9 +35,7 @@ The product is not designed to replace clinicians, therapy, diagnosis, or emerge
 - **Privacy aware:** sensitive personal information requires careful handling and minimal exposure.
 - **Supportive, not judgmental:** the interface should help people orient themselves, not score their worth.
 
-## Current Scope
-
-Kleio Signals is an active product prototype with mobile, web, and professional-facing components. The current work focuses on user experience, daily planning, personal signals, reflection flows, and responsible support workflows.
+## Public Scope
 
 This public repository intentionally avoids proprietary implementation details, internal logic, clinical interpretation methods, business strategy, roadmap specifics, and sensitive operational information.
 
@@ -41,7 +45,7 @@ This repository is a public project overview. It does not contain the private pr
 
 ## Status
 
-Kleio Signals is under active development. Access, demos, pilots, and collaboration opportunities are handled directly with the project owner.
+Access, demos, pilots, and collaboration opportunities are handled directly with the project owner.
 
 ## Contact
 

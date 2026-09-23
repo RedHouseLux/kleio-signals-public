@@ -6,6 +6,12 @@ Kleio Signals è un progetto di benessere digitale centrato sulla persona. Aiuta
 
 Il progetto unisce agenda intelligente personale, check-in leggeri, journaling riflessivo e viste di supporto per professionisti. L'obiettivo è semplice: rendere i segnali emotivi e comportamentali della vita quotidiana più comprensibili, senza trasformare la cura in un freddo pannello di dati.
 
+## Stato del progetto
+
+**Prototipo privato in sviluppo attivo.** Kleio Signals include attualmente componenti mobile, web e professionali in fase di sviluppo. Questo repository pubblico è solo una presentazione ad alto livello: non contiene il codice sorgente operativo, l'architettura interna, documentazione sensibile o strategia di business.
+
+Il focus attuale del prodotto riguarda esperienza utente, pianificazione quotidiana, segnali personali, percorsi di riflessione e workflow di supporto responsabili.
+
 ## Cosa fa
 
 - Aiuta le persone a organizzare azioni, appuntamenti, promemoria, obiettivi e piccoli passi successivi.
@@ -29,9 +35,7 @@ Il prodotto non è pensato per sostituire clinici, terapia, diagnosi o servizi d
 - **Attento alla privacy:** le informazioni personali sensibili richiedono cura, minimizzazione ed esposizione limitata.
 - **Supportivo, non giudicante:** l'interfaccia dovrebbe aiutare le persone a orientarsi, non misurare il loro valore.
 
-## Ambito attuale
-
-Kleio Signals è un prototipo di prodotto attivo con componenti mobile, web e professionali. Il lavoro attuale si concentra su esperienza utente, pianificazione quotidiana, segnali personali, percorsi di riflessione e workflow di supporto responsabili.
+## Ambito pubblico
 
 Questo repository pubblico evita intenzionalmente dettagli proprietari di implementazione, logiche interne, metodi di interpretazione clinica, strategia di business, specifiche di roadmap e informazioni operative sensibili.
 
@@ -41,7 +45,7 @@ Questo repository è una panoramica pubblica del progetto. Non contiene codice s
 
 ## Stato
 
-Kleio Signals è in sviluppo attivo. Accesso, demo, progetti pilota e opportunità di collaborazione sono gestiti direttamente con il proprietario del progetto.
+Accesso, demo, progetti pilota e opportunità di collaborazione sono gestiti direttamente con il proprietario del progetto.
 
 ## Contatti
 
