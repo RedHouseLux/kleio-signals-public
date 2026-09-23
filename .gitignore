@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+node_modules/
+dist/
+build/
+release/
+__pycache__/
+.pytest_cache/
