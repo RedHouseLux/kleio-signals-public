@@ -1,5 +1,7 @@
 # Kleio Signals
 
+[Italiano](README.it.md)
+
 Kleio Signals is a human-centered digital wellbeing project that helps people plan their days, notice meaningful patterns, and adjust before everyday overload becomes harder to manage.
 
 The project brings together a personal smart agenda, lightweight check-ins, reflective journaling, and professional support views. Its goal is simple: make daily emotional and behavioral signals easier to understand, without turning care into a cold data dashboard.
